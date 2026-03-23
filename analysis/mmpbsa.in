@@ -1,0 +1,8 @@
+&general
+    startframe=1, endframe=500, interval=1,
+    verbose=2, temperature=295.15
+/
+
+&gb
+    igb=5,
+/
